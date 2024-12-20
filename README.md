@@ -1,6 +1,7 @@
 # Bienvenue sur mon Github !
 
 Je suis **Mael DURET** - Je suis un développeur fullstack et étudiant au [Lycée Monge à Chambéry, France](https://www.lycee-monge.fr/)
+
 Passionné par tout ce qui touche de près ou de loin à l'informatique, et plus particulièrement à la programmation :D
 
 ## Je travaille en utilisant ces technologies :

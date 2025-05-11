@@ -1,8 +1,24 @@
-# Bienvenue sur mon Github !
+# Bienvenue sur mon profil GitHub ! 👨‍💻
 
-Je suis **Mael DURET** - Développeur fullstack 🇫🇷
+Je suis **Mael Duret**, développeur fullstack passionné ! 👀  
+Fan de code propre, de projets open source et de challenges techniques. ✍️
 
-Passionné par tout ce qui touche de près ou de loin à l'informatique, et plus particulièrement à la programmation :D
+---
 
-## Je travaille en utilisant ces technologies :
-[![My Skills](https://skillicons.dev/icons?i=bootstrap,css,html,js,react,ts,bash,debian,ubuntu,discord,discordjs,docker,eclipse,express,github,gitlab,idea,java,kotlin,linux,lua,md,mongodb,mysql,netlify,nginx,nodejs,npm,php,phpstorm,pycharm,py,sqlite,vscode,visualstudio,vue,webpack,webstorm,yarn)](https://mael-dev.fr)
+## 🙏 Mes compétences
+[![Mes compétences](https://skillicons.dev/icons?i=bootstrap,css,html,js,react,ts,bash,debian,ubuntu,discord,discordjs,docker,eclipse,express,github,gitlab,idea,java,kotlin,linux,lua,md,mongodb,mysql,netlify,nginx,nodejs,npm,php,phpstorm,pycharm,py,sqlite,vscode,visualstudio,vue,webpack,webstorm,yarn)](https://github.com/ryzenixx)
+
+## 📀 Mes projets
+> [**Papillon**](https://papillon.bzh/) | Client libre, open-source et développé par une communauté d’élèves pour l’ensemble des services de vie scolaire, développé en TypeScript & React Native.
+
+## 📫 Mes réseaux
+[![LinkedIn](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/mael-duret)
+[![Instagram](https://skillicons.dev/icons?i=instagram)](https://www.instagram.com/mael.drt_)
+
+## 🥐 Me contacter
+**E-mail** mael.drt73@gmail.com  
+**Discord:** ryzenixx
+
+---
+
+Merci d’être passé sur mon profil ✌️

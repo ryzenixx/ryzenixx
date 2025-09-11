@@ -16,7 +16,7 @@ Fan de code propre, de projets open source et de challenges techniques. ✍️
 [![Instagram](https://skillicons.dev/icons?i=instagram)](https://www.instagram.com/mael.drt_)
 
 ## 🥐 Me contacter
-**E-mail** mael.drt73@gmail.com  
+**E-mail** hello@maelduret.com  
 **Discord:** ryzenixx
 
 ---

@@ -10,6 +10,7 @@ Fan de code propre, de projets open source et de challenges techniques. ✍️
 
 ## 📀 Projets actuels
 > [**Papillon**](https://github.com/papillonapp) | Client libre, open-source et développé par une communauté d’élèves pour l’ensemble des services de vie scolaire, développé en TypeScript & React Native.
+> [**livebox-api**](https://github.com/ryzenixx/livebox-api) | Librairie TypeScript pour l'API Orange Livebox - gestion des appareils, du DHCP et des contrôles système.
 
 ## 📫 Mes réseaux
 [![LinkedIn](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/mael-duret)

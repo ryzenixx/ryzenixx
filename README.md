@@ -1,27 +1,2 @@
-# Bienvenue sur mon profil GitHub ! 👨‍💻
-
-Je suis **Mael Duret**, développeur fullstack passionné ! 👀  
-Fan de code propre, de projets open source et de challenges techniques. ✍️
-
----
-
-## 🙏 Mes compétences
-[![Mes compétences](https://skillicons.dev/icons?i=bootstrap,css,html,js,react,ts,svelte,bash,debian,ubuntu,discord,discordjs,docker,eclipse,express,github,gitlab,idea,java,kotlin,linux,lua,md,mongodb,mysql,netlify,nginx,nodejs,npm,php,phpstorm,pycharm,py,sqlite,vscode,visualstudio,vue,webpack,webstorm,yarn)](https://github.com/ryzenixx)
-
-## 📀 Projets actuels
-> [**Papillon**](https://github.com/papillonapp) | Client libre, open-source et développé par une communauté d’élèves pour l’ensemble des services de vie scolaire, développé en TypeScript & React Native.
-
-> [**livebox-api**](https://github.com/ryzenixx/livebox-api) | Librairie TypeScript pour l'API Orange Livebox - gestion des appareils, du DHCP et des contrôles système.
-
-## 📫 Mes réseaux
-[![LinkedIn](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/mael-duret)
-[![Instagram](https://skillicons.dev/icons?i=instagram)](https://www.instagram.com/mael.drt_)
-
-## 🥐 Me contacter
-**E-mail** hello@maelduret.com  
-**Discord:** ryzenixx
-
----
-
-Merci d’être passé sur mon profil ✌️
-![](https://hit.yhype.me/github/profile?account_id=96339570)
+<h3 align="center">Welcome on my GitHub ! <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/refs/heads/main/Animals%20and%20Nature/Baby%20Chick.webp" alt="baby chicken" style="height: 40px;"></h3>
+<p align="center">My name is Mael. I’m a French <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/Flags/Flag%20France.webp" alt="french flag" style="height: 20px;"> full-stack developer, passionate about computers <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/People/Technologist.webp" alt="technologist" style="height: 20px;"> and server administration since a very young age. I love working with systems, networks <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/refs/heads/main/Objects/Television.webp" alt="television" style="height: 20px;">, and everything that keeps the technical side of the web running smoothly. <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/refs/heads/main/Smileys/Cowboy%20Hat%20Face.webp" alt="cowboy" style="height: 20px;"></p>
